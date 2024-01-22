@@ -17,6 +17,10 @@ Copy the current line( yanking )
 `````
 yy
 `````
+paste the copied item
+`````
+p
+`````
 To yank multiple lines in vim, type in the number of lines followed by yy
 ``````
 3yy 
