@@ -1,5 +1,10 @@
 vim editor
 
+Get the serial number in text
+`````
+se nu
+``````
+
 Deleting the current line
 `````
 dd
